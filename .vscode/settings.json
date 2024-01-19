@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99b2fe43-9d04-4645-a451-28c2c376b8f1/resourceGroups/accountemist-azure-ai-services/providers/Microsoft.Web/sites/accountemist/Files/hostingstart.html/subscriptions/99b2fe43-9d04-4645-a451-28c2c376b8f1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/msdocs-python-webapp-quickstart-accountemist",
+    "appService.deploySubpath": "."
+}
